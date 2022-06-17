@@ -1,0 +1,55 @@
+
+ /*toggleClass*/
+
+
+ .p {
+    margin: 4px;
+    font-size: 16px;
+    font-weight: bolder;
+    cursor: pointer;
+  }
+  .blue {
+    color: blue;
+  }
+  .highlight {
+    background: yellow;
+  }
+
+.artive{
+	 overflow: hidden;
+}
+
+
+
+
+.panel{
+	cursor: pointer;
+}
+.content{
+	display: none;
+}
+.h6{
+	font-size: 3rem;
+	color: violet;
+}
+#block{
+	background-color: #968574;
+	color: red;
+	width: 100px;
+	border: 1px solid indigo;
+}
+.p{
+	background-color: skyblue;
+}
+#log{
+	color: blue;
+}
+.slideup{
+	color: darkred;
+	margin: 5px;
+	cursor: pointer;
+	transition: .3s;
+}
+.slideup:hover{
+	background-color: skyblue;
+}
